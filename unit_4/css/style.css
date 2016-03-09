@@ -1,0 +1,35 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:300);
+
+body{
+	text-align: center;
+	background: url("images/work-bg.jpg");
+	background-size: cover;
+	font-family: 'Open Sans', sans-serif;
+	background-repeat: no-repeat;
+
+}
+h1{
+	color: #8dc63f;
+	font-size:45px;
+	color:#fff;
+}
+
+p{
+	color: #8dc63f;
+}
+ul{
+    list-style-type: none;
+}
+.categories{
+	color:white;
+	font-size:28px;
+}
+#slogan{
+	font-style: italic;
+
+}
+.email-link{
+	text-decoration: none;
+	color:#8dc63f;
+}
+
