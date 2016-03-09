@@ -1,0 +1,28 @@
+body{
+	text-align: center;
+	background: url("images/work-bg.jpg");
+	background-size: cover;
+	color: rgb(0, 10, 145);
+	font-family: Helvetica, Arial;
+	background-repeat: no-repeat;
+
+}
+h1, p{
+	color: #8dc63f;
+}
+ul{
+    list-style-type: none;
+}
+.categories{
+	color:white;
+	font-size:28px;
+}
+#slogan{
+	font-style: italic;
+
+}
+.email-link{
+	text-decoration: none;
+	color:#8dc63f;
+}
+
