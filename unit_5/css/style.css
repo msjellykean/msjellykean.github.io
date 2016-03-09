@@ -1,0 +1,65 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:300);
+
+body{
+	text-align: center;
+	background: url("images/work-bg.jpg");
+	background-size: cover;
+	font-family: 'Open Sans', sans-serif;
+	background-repeat: no-repeat;
+
+}
+h1{
+	color: #8dc63f;
+	font-size:45px;
+	color:#fff;
+	margin:0;
+}
+
+p{
+	color: #8dc63f;
+}
+ul{
+    list-style-type: none;
+}
+.logo-img {
+	width:100px;
+	padding:20px;
+}
+.categories{
+	color:white;
+	font-size:28px;
+}
+#slogan{
+	font-style: italic;
+
+}
+.email-link{
+	text-decoration: none;
+	color:#8dc63f;
+}
+header {
+	background: #FFED74;
+	border: 1px black solid;
+    padding: 20px;
+}
+nav {
+	font-size: 20px;
+	font-style: italic;
+	font-family:Georgia, serif;
+	background-color:#E8C66A;
+	border: 1px black solid;
+    padding: 20px;
+}
+article {
+	background-color:#E89C6C;
+	border: 1px black solid;
+    padding: 20px;
+}
+footer{
+	background-color:#FF957E;
+	font-style:italic;
+	font-family: Georgia, serif;
+	border: 1px black solid;
+    padding: 20px;
+}
+
