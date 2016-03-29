@@ -1,0 +1,140 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:300,700);
+
+body{
+	background: url("images/work-bg.jpg");
+	background-size: cover;
+	font-family: 'Open Sans', sans-serif;
+	text-align: center;
+	background-repeat: no-repeat;
+
+}
+h1{
+	color: #000;
+	font-size:45px;
+	color:#fff;
+	margin:0;
+}
+header {
+	background: #FFED74;
+	border: 1px black solid;
+    padding: 20px;
+}
+nav {
+	font-size: 20px;
+	background-color:#E8C66A;
+	border: 1px black solid;
+    padding: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+p{
+	color: #000;
+	font-family: 'Open Sans', sans-serif;
+}
+ul{
+    list-style-type: none;
+}
+li a {
+	text-decoration: none;
+	color:#000;
+}
+li a:hover {
+	background: green;
+	padding:20px;
+}
+
+article {
+	background-color:#E89C6C;
+	border: 1px black solid;
+    padding: 20px;
+}
+footer{
+	background-color:#FF957E;
+	border: 1px black solid;
+    padding: 20px;
+}
+
+.logo-img {
+	padding:20px;
+}
+.nav-home {
+	float: left;
+	width:25%;
+}
+.nav-about {
+	float: left;
+	width:25%;
+}
+.nav-categories {
+	float: left;
+	width:25%;
+}
+.nav-contact {
+	float: left;
+	width:25%;
+}
+.hp-coasters {
+	float: left;
+	width:25%;
+}
+.hp-tshirts {
+	float: left;
+	width:25%;
+}
+.hp-pens {
+	float: left;
+	width:25%;
+}
+.hp-fieldnotes {
+	float: left;
+	width:25%;
+}
+.categories{
+	font-size:28px;
+	float:left;
+	width:100%;
+	padding:20px;
+}
+.secondary-nav {
+	background:yellow;
+}
+#slogan{
+	font-style: italic;
+
+}
+#two_column {
+    background-color: #FFB7CF;
+    border: 1px black solid;
+    padding: 20px;
+}
+#left {
+    background-color: violet;
+    border: 1px black solid;
+    padding: 20px;
+    float:left;
+    width:30%;
+}
+
+#right {
+    background-color: pink;
+    border: 1px black solid;
+    padding: 20px;
+    float:right;
+    width:62%;
+}
+.clearfix:after{
+	visibility: hidden;
+	display: block;
+	font-size:0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
+.email-link{
+	text-decoration: none;
+	color:#000;
+}
+.insta-feed {
+	clear:both;
+}
+
